@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/personal/things-i-like/","tags":["gardenEntry"]}
 ---
 
+#### Books
+- [The Art of The Mandalorian: Season 2](https://www.amazon.co.uk/dp/1419756516)
 #### RPG/Tabletop
 - https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni
 
@@ -18,6 +20,13 @@
 - [Vernier Calipers](https://www.amazon.co.uk/STANDARD-GAGE-Graduation-Resistant-Measurements/dp/B0DB29M9M7)
 - [Electric Drill Pen](https://www.amazon.co.uk/Fanttik-F2-Master-Accessories-Polishing/dp/B0F3CPRZXW)
 - [Sanding Sticks](https://www.amazon.co.uk/gp/product/B00C5RFIXK)
+- [Mr Finishing Surfacer 1500 White](https://www.amazon.co.uk/Mr-Finishing-Surfacer-White-SF-291/dp/B01NBIOKD1)
+- [Mr Finishing Surfacer 1500 Black](https://www.premiumhobbies.co.uk/primers/mr-hobby-mr-finishing-surfacer-1500-black-sf288)
+- [MrHobbie Color Leveller 400](https://www.amazon.co.uk/Hobby-400ml-Color-Thinner-104/dp/B0013ES7KW)
+- [Tamiya Laquer Thinner](https://www.amazon.co.uk/Tamiya-87077-Laquer-Thinner/dp/B000GGPQZC)
+- [UV Resin](https://www.amazon.co.uk/Ultraviolet-Decoration-Transparent-Sunlight-Activated/dp/B09QGMW99S)
+- [UV Torch](https://www.amazon.co.uk/Ultraviolet-Flashlight-Blacklight-Detector-Batteries/dp/B00GU55270)
+- [Jo Sonja Brush Conditioner](https://www.jacksonsart.com/jo-sonjaar-artists-mediums-250ml-brush-soap-conditioner)
 #### Coffee
 - [Grinder Holder Upgrade](https://www.etsy.com/uk/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder)
 - [Metal Dosing Cup](https://bellabarista.co.uk/products/df83-grinder-aluminium-dosing-cup)

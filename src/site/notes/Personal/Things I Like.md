@@ -42,3 +42,4 @@
 #### Expensive Stuff
 - [Omega Speedmaster Moonwatch](https://www.beaverbrooks.co.uk/0142820/OMEGA-Speedmaster-Moonwatch-Professional-42mm-Chronograph-Mens-Watch/p)
 - [Casio BTTF Vintage](https://www.casio.com/intl/watches/casio/product.CA-500WEBF-1A/)
+- [LG Odyssey G9 49" Ultrawide OLED](https://www.amazon.co.uk/dp/B0C8PDJQ4Q)

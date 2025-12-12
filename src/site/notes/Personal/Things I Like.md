@@ -38,7 +38,11 @@
 - [Gerber Shard Keychain Tool](https://www.gerber-store.co.uk/gerber-shard-black-keychain-tool-card)
 - [Victorinox Paring Knives](https://www.amazon.co.uk/Victorinox-3-Piece-Classic-Knife-Set-Stainless/dp/B011EFYJLK)
 - [Pomodoro Timer](https://www.amazon.co.uk/BlueSnail-Productivity-Classroom-Brightness-Adjustable/dp/B0D9447YYF)
-
+#### Lego
+- [Light My Bricks - Artemis Kit](https://www.lightmybricks.co.uk/products/light-kit-for-lego-nasa-artemis-space-launch-system-10341)
+- [Light My Bricks - AT-ST Kit](https://www.lightmybricks.co.uk/products/light-kit-for-star-wars-at-st-walker-75417)
+- [Light My Bricks - Defender 90 Kit](https://www.lightmybricks.co.uk/products/lego-land-rover-classic-defender-90-10317-diy-light-bundle)
+- [Light My Bricks - Mustang Kit](https://www.lightmybricks.co.uk/products/lmb-2-0-light-kit-for-lego-ford-mustang-10265?_pos=1&_psq=Mustang)
 #### Expensive Stuff
 - [Omega Speedmaster Moonwatch](https://www.beaverbrooks.co.uk/0142820/OMEGA-Speedmaster-Moonwatch-Professional-42mm-Chronograph-Mens-Watch/p)
 - [Casio BTTF Vintage](https://www.casio.com/intl/watches/casio/product.CA-500WEBF-1A/)

@@ -4,6 +4,8 @@
 
 #### Books
 - [The Art of The Mandalorian: Season 2](https://www.amazon.co.uk/dp/1419756516)
+- [Simon Stalenhag: Sunset at Zero Point](https://www.amazon.co.uk/Sunset-Zero-Point-masterwork-acclaimed/dp/1398543403)
+- [Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
 #### RPG/Tabletop
 - https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni
 

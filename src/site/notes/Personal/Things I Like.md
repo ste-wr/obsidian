@@ -29,12 +29,14 @@
 - [UV Resin](https://www.amazon.co.uk/Ultraviolet-Decoration-Transparent-Sunlight-Activated/dp/B09QGMW99S)
 - [UV Torch](https://www.amazon.co.uk/Ultraviolet-Flashlight-Blacklight-Detector-Batteries/dp/B00GU55270)
 - [Jo Sonja Brush Conditioner](https://www.jacksonsart.com/jo-sonjaar-artists-mediums-250ml-brush-soap-conditioner)
+- [Citadel Imperial Fist Contrast](https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-contrast/contrast-imperial-fist-18ml-)
 #### Coffee
 - [Grinder Holder Upgrade](https://www.etsy.com/uk/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder)
 - [Metal Dosing Cup](https://bellabarista.co.uk/products/df83-grinder-aluminium-dosing-cup)
 #### Warhammer/Miniatures
 - [Painting Travel Bag](https://monumenthobbies.com/products/gobag-neo)
 - [Star Wars Legion - Grogu/Mandalorian](https://www.atomicmassgames.com/character/din-djarin-and-grogu/)
+- [Army Painter Imperial Fists Paint Bundle](https://thearmypainter.com/en-gb/products/imperial-fists-bundle)
 #### Tools
 - [Leatherman Wingman Multitool](https://www.amazon.co.uk/Leatherman-832523-Wingman-Sheath-Stainless/dp/B079ZXQ6RH)
 - [Gerber Shard Keychain Tool](https://www.gerber-store.co.uk/gerber-shard-black-keychain-tool-card)

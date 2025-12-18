@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal/stuff-to-buy/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"shopping-list","permalink":"/shopping-list/","tags":["gardenEntry"]}
 ---
 
 #### Books

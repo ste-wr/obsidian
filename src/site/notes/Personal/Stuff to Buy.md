@@ -36,6 +36,7 @@
 #### Warhammer/Miniatures
 - [Painting Travel Bag](https://monumenthobbies.com/products/gobag-neo)
 - [Star Wars Legion - Grogu/Mandalorian](https://www.atomicmassgames.com/character/din-djarin-and-grogu/)
+- [Army Painter Imperial Fists Paint Bundle](https://thearmypainter.com/en-gb/products/imperial-fists-bundle)
 #### Tools
 - [Leatherman Wingman Multitool](https://www.amazon.co.uk/Leatherman-832523-Wingman-Sheath-Stainless/dp/B079ZXQ6RH)
 - [Gerber Shard Keychain Tool](https://www.gerber-store.co.uk/gerber-shard-black-keychain-tool-card)

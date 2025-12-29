@@ -8,13 +8,11 @@
 - [Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
 #### RPG/Tabletop
 - https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni
-
 #### Board Games
 - https://boardgamegeek.com/boardgame/254386/raccoon-tycoon
 - https://boardgamegeek.com/boardgame/357873/the-old-kings-crown
 - https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood
 - https://www.huntersentertainment.com/alice-is-missing
-- https://boardgamegeek.com/boardgame/135779/a-fake-artist-goes-to-new-york
 - https://thousandyearoldvampire.com/
 - https://boardgamegeek.com/boardgame/128664/timeline
 #### Modelmaking
@@ -29,7 +27,6 @@
 - [UV Resin](https://www.amazon.co.uk/Ultraviolet-Decoration-Transparent-Sunlight-Activated/dp/B09QGMW99S)
 - [UV Torch](https://www.amazon.co.uk/Ultraviolet-Flashlight-Blacklight-Detector-Batteries/dp/B00GU55270)
 - [Jo Sonja Brush Conditioner](https://www.jacksonsart.com/jo-sonjaar-artists-mediums-250ml-brush-soap-conditioner)
-- [Citadel Imperial Fist Contrast](https://elementgames.co.uk/paints-hobby-and-scenery/paints-washes-etc/citadel-games-workshop-paints/citadel-contrast/contrast-imperial-fist-18ml-)
 #### Coffee
 - [Grinder Holder Upgrade](https://www.etsy.com/uk/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder)
 - [Metal Dosing Cup](https://bellabarista.co.uk/products/df83-grinder-aluminium-dosing-cup)

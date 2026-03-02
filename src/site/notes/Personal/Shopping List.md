@@ -3,7 +3,6 @@
 ---
 
 #### Books
-- [The Art of The Mandalorian: Season 2](https://www.amazon.co.uk/dp/1419756516)
 - [Simon Stalenhag: Sunset at Zero Point](https://www.amazon.co.uk/Sunset-Zero-Point-masterwork-acclaimed/dp/1398543403)
 - [Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
 #### RPG/Tabletop
@@ -34,6 +33,8 @@
 - [Painting Travel Bag](https://monumenthobbies.com/products/gobag-neo)
 - [Star Wars Legion - Grogu/Mandalorian](https://www.atomicmassgames.com/character/din-djarin-and-grogu/)
 - [Army Painter Imperial Fists Paint Bundle](https://thearmypainter.com/en-gb/products/imperial-fists-bundle)
+- [Warcrow Grove Curtailers](https://store.corvusbelli.com/en/warcrow/wargame/miniatures/grove-curtailers)
+- [Warcrow Syanenn Action Pack](https://store.corvusbelli.com/en/warcrow/wargame/miniatures/syenann-action-pack)
 #### Tools
 - [Leatherman Wingman Multitool](https://www.amazon.co.uk/Leatherman-832523-Wingman-Sheath-Stainless/dp/B079ZXQ6RH)
 - [Gerber Shard Keychain Tool](https://www.gerber-store.co.uk/gerber-shard-black-keychain-tool-card)
@@ -44,7 +45,10 @@
 - [Light My Bricks - AT-ST Kit](https://www.lightmybricks.co.uk/products/light-kit-for-star-wars-at-st-walker-75417)
 - [Light My Bricks - Defender 90 Kit](https://www.lightmybricks.co.uk/products/lego-land-rover-classic-defender-90-10317-diy-light-bundle)
 - [Light My Bricks - Mustang Kit](https://www.lightmybricks.co.uk/products/lmb-2-0-light-kit-for-lego-ford-mustang-10265?_pos=1&_psq=Mustang)
+#### Technology
+- [sharge Disk Pro SSD](https://sharge.com/products/disk-pro?srsltid=AfmBOopgb50rwZNysO7kMiMhUkY4-RtdSIV_hdMu-fVQpUgoi9vo2cId&variant=47764950155515)
 #### Expensive Stuff
 - [Omega Speedmaster Moonwatch](https://www.beaverbrooks.co.uk/0142820/OMEGA-Speedmaster-Moonwatch-Professional-42mm-Chronograph-Mens-Watch/p)
 - [Casio BTTF Vintage](https://www.casio.com/intl/watches/casio/product.CA-500WEBF-1A/)
 - [LG Odyssey G9 49" Ultrawide OLED](https://www.amazon.co.uk/dp/B0C8PDJQ4Q)
+39GX950B

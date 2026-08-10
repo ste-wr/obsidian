@@ -3,21 +3,21 @@
 ---
 
 #### Books
-- [Simon Stalenhag: Sunset at Zero Point](https://www.amazon.co.uk/Sunset-Zero-Point-masterwork-acclaimed/dp/1398543403)
-- [Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
+- [£23.96 - Simon Stalenhag: Sunset at Zero Point](https://www.amazon.co.uk/Sunset-Zero-Point-masterwork-acclaimed/dp/1398543403)
+- [£31.15 - Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
 #### Media
-- [Lord of the Rings: War of the Rohirrim](https://amzn.eu/d/03kb2Y4l)
-- [The Martian](https://amzn.eu/d/00ZhPnyP)
-- [Project: Hail Mary](https://amzn.eu/d/0cXDfn7M)
-- [Interstellar](https://amzn.eu/d/03Sb9EKm)
+- [£19.99 - Lord of the Rings: War of the Rohirrim](https://amzn.eu/d/03kb2Y4l)
+- [£19.98 - The Martian](https://amzn.eu/d/00ZhPnyP)
+- [£25.99 - Project: Hail Mary](https://amzn.eu/d/0cXDfn7M)
+- [£19.99 - Interstellar](https://amzn.eu/d/03Sb9EKm)
 #### Pizza
-- [Oven Brush](https://uk.ooni.com/products/ooni-pizza-oven-brush)
-- [Wooden Launch Peel (14”)](https://uk.ooni.com/products/ooni-wooden-pizza-peel)
+- [£40 - Oven Brush (Long)](https://uk.ooni.com/products/ooni-pizza-oven-brush)
+- [£40 - Wooden Launch Peel (14”)](https://uk.ooni.com/products/ooni-wooden-pizza-peel)
 #### RPG/Tabletop
-- https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni
+- [£22.90 - Pepperoni Pizza D20 Dice](https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni)
 #### Board Games
-- https://boardgamegeek.com/boardgame/254386/raccoon-tycoon
-- https://boardgamegeek.com/boardgame/357873/the-old-kings-crown
+- [£29.33 - Raccoon Tycoon](https://amzn.eu/d/0gjo55Ba)
+- [The Old Kings Crown](https://boardgamegeek.com/boardgame/357873/the-old-kings-crown)
 - https://boardgamegeek.com/boardgame/251661/oathsworn-into-the-deepwood
 - https://www.huntersentertainment.com/alice-is-missing
 - https://thousandyearoldvampire.com/

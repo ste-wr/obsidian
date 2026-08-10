@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"dg-permalink":"shopping-list","permalink":"/shopping-list/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"shopping-list","permalink":"/shopping-list/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 #### Books
 - [Simon Stalenhag: Sunset at Zero Point](https://www.amazon.co.uk/Sunset-Zero-Point-masterwork-acclaimed/dp/1398543403)
 - [Rian Hughes: Logo-a-gogo](https://www.amazon.co.uk/Logo-gogo-Branding-Pop-Culture/dp/0993337422)
+#### Media
+- [Lord of the Rings: War of the Rohirrim](https://amzn.eu/d/03kb2Y4l)
+- [The Martian](https://amzn.eu/d/00ZhPnyP)
+- [Project: Hail Mary](https://amzn.eu/d/0cXDfn7M)
+- [Interstellar](https://amzn.eu/d/03Sb9EKm)
+#### Pizza
+- [Oven Brush](https://uk.ooni.com/products/ooni-pizza-oven-brush)
+- [Wooden Launch Peel (14”)](https://uk.ooni.com/products/ooni-wooden-pizza-peel)
 #### RPG/Tabletop
 - https://magicmadhouse.co.uk/q-workshop-pizza-dice-set-pepperoni
 #### Board Games
@@ -15,9 +23,7 @@
 - https://thousandyearoldvampire.com/
 - https://boardgamegeek.com/boardgame/128664/timeline
 #### Modelmaking
-- [Retractable Exacto Knife Handle](https://www.amazon.co.uk/Swann-Morton-Premium-Retractaway-Handle/dp/B016WDV9DU)
 - [Vernier Calipers](https://www.amazon.co.uk/STANDARD-GAGE-Graduation-Resistant-Measurements/dp/B0DB29M9M7)
-- [Electric Drill Pen](https://www.amazon.co.uk/Fanttik-F2-Master-Accessories-Polishing/dp/B0F3CPRZXW)
 - [Sanding Sticks](https://www.amazon.co.uk/gp/product/B00C5RFIXK)
 - [Mr Finishing Surfacer 1500 White](https://www.amazon.co.uk/Mr-Finishing-Surfacer-White-SF-291/dp/B01NBIOKD1)
 - [Mr Finishing Surfacer 1500 Black](https://www.premiumhobbies.co.uk/primers/mr-hobby-mr-finishing-surfacer-1500-black-sf288)
@@ -41,14 +47,13 @@
 - [Victorinox Paring Knives](https://www.amazon.co.uk/Victorinox-3-Piece-Classic-Knife-Set-Stainless/dp/B011EFYJLK)
 - [Pomodoro Timer](https://www.amazon.co.uk/BlueSnail-Productivity-Classroom-Brightness-Adjustable/dp/B0D9447YYF)
 #### Lego
-- [Light My Bricks - Artemis Kit](https://www.lightmybricks.co.uk/products/light-kit-for-lego-nasa-artemis-space-launch-system-10341)
-- [Light My Bricks - AT-ST Kit](https://www.lightmybricks.co.uk/products/light-kit-for-star-wars-at-st-walker-75417)
 - [Light My Bricks - Defender 90 Kit](https://www.lightmybricks.co.uk/products/lego-land-rover-classic-defender-90-10317-diy-light-bundle)
 - [Light My Bricks - Mustang Kit](https://www.lightmybricks.co.uk/products/lmb-2-0-light-kit-for-lego-ford-mustang-10265?_pos=1&_psq=Mustang)
 #### Technology
 - [sharge Disk Pro SSD](https://sharge.com/products/disk-pro?srsltid=AfmBOopgb50rwZNysO7kMiMhUkY4-RtdSIV_hdMu-fVQpUgoi9vo2cId&variant=47764950155515)
+- [Anker Prime Supercharged Desktop hub](https://amzn.eu/d/0g5Vg173)
 #### Expensive Stuff
+- [Casio AE-1200WHD Watch](https://www.casio.com/uk/watches/casio/product.AE-1200WHD-1AV/)
 - [Omega Speedmaster Moonwatch](https://www.beaverbrooks.co.uk/0142820/OMEGA-Speedmaster-Moonwatch-Professional-42mm-Chronograph-Mens-Watch/p)
 - [Casio BTTF Vintage](https://www.casio.com/intl/watches/casio/product.CA-500WEBF-1A/)
-- [LG Odyssey G9 49" Ultrawide OLED](https://www.amazon.co.uk/dp/B0C8PDJQ4Q)
-39GX950B
+- [LG GX9 39GX950B](https://amzn.eu/d/098yv4ew)

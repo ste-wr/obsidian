@@ -22,8 +22,6 @@
 - [£14.52 - Timeline](https://www.amazon.co.uk/Asmodee-Timeline-Players-Minutes-Playing)
 #### Modelmaking
 #### Coffee
-- [£22.93 - Grinder Holder Upgrade](https://www.etsy.com/uk/listing/1200800993/df64-gen-12-upgraded-dosing-cup-holder)
-- [£22.95 - Metal Dosing Cup](https://bellabarista.co.uk/products/df83-grinder-aluminium-dosing-cup)
 #### Warhammer/Miniatures
 - [£28.80 - Star Wars Legion - Grogu/Mandalorian](https://magicmadhouse.co.uk/atomic-mass-games-star-wars-legion-outer-rim-outlaws-2025)
 - [£45 - Warcrow Grove Curtailers](https://store.corvusbelli.com/en/warcrow/wargame/miniatures/grove-curtailers)
